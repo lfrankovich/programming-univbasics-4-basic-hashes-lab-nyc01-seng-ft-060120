@@ -5,11 +5,8 @@ end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
-  {:Name => "Karen", :Email => "Hello world!"
-}
+  {:name => "Karen", :email => "karen@gmail.com"}
 end
-
-
 
 def pioneer
   # return a hash with a key of :name and a corresponding value of 'Grace Hopper'
