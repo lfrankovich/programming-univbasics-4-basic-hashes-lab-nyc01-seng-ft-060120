@@ -3,6 +3,8 @@ def new_hash
   
 end
 
+(hash[:new_key] = "New Value"
+
 def my_hash
   # return a valid hash with any key/value pair of your choice
 end
