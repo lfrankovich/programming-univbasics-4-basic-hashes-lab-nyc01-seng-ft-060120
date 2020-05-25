@@ -1,6 +1,6 @@
 def new_hash
   # return an empty hash
-  
+  []
 end
 
 (hash[:new_key] = "New Value"
